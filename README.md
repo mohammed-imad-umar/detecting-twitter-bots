@@ -1,4 +1,6 @@
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammed-imad-umar/detecting-twitter-bots-ml/blob/main/src/Main.ipynb)
+
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -22,7 +24,7 @@ It uses real Twitter data and extracts key features to differentiate between hum
 ### 🛠️ Tech Stack
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
-- **Tools:** Jupyter Notebook, GitHub
+- **Tools:** Jupyter Notebook, GitHub, Google Colab
 
 ---
 
@@ -56,7 +58,7 @@ git clone https://github.com/mohammed-imad-umar/detecting-twitter-bots-ml.git
 pip install -r requirements.txt
 ```
 
-3️⃣ Run the notebook or script to train and test the model.
+3️⃣ Open `src/Main.ipynb` or scripts to train and test the model.
 
 ---
 
