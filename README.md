@@ -1,3 +1,8 @@
+
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🤖 Detecting Twitter Bots using Machine Learning
 
 ### 📌 Project Overview
@@ -24,11 +29,12 @@ It uses real Twitter data and extracts key features to differentiate between hum
 ### 📂 Project Structure
 ```
 detecting-twitter-bots-ml/
-│── data/                # Dataset files
-│── notebooks/           # Jupyter Notebooks
-│── src/                 # Source code (model scripts)
-│── requirements.txt     # Dependencies
-│── README.md            # Project documentation
+│── data/                 # Dataset files
+│── notebooks/            # Jupyter Notebooks
+│── src/                  # Source code (model scripts)
+│── requirements.txt      # Dependencies
+│── README.md             # Project documentation
+│── LICENSE               # MIT License
 ```
 
 ---
@@ -63,4 +69,3 @@ pip install -r requirements.txt
 📧 **Email:** imadu1525@gmail.com
 
 ⭐ *"Detecting fake accounts, one bot at a time!"*
-
