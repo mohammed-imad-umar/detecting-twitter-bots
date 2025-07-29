@@ -8,22 +8,23 @@
 # 🤖 Detecting Twitter Bots using Machine Learning
 
 ### 📌 Project Overview
-This project builds a machine learning model to detect automated (bot) accounts on Twitter.  
-It uses real Twitter data and extracts key features to differentiate between human and bot accounts.
+A machine learning-based system to identify and flag malicious Twitter bots with **74% accuracy**.  
+The model analyzes user behavior, account metadata, tweet frequency, and URL patterns to differentiate between human users and bots.
 
 ---
 
-### 🚀 Features
-- ✅ Collect and preprocess Twitter user data  
-- ✅ Extract features such as tweet frequency, follower/following ratio, and account metadata  
-- ✅ Train machine learning classifiers to detect bots  
-- ✅ Evaluate model accuracy and performance using test datasets  
+### 🚀 Key Features
+- ✅ Real-time and offline Twitter data analysis  
+- ✅ Feature extraction: Tweet frequency, followers/following ratio, account metadata  
+- ✅ Logistic Regression classifier with 74% detection accuracy  
+- ✅ GUI built using Tkinter for user-friendly interaction  
+- ✅ Malicious URL detection module  
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Tkinter  
 - **Tools:** Jupyter Notebook, GitHub, Google Colab
 
 ---
@@ -43,8 +44,8 @@ detecting-twitter-bots-ml/
 ---
 
 ### 📊 Model Performance
-- Achieved **XX% accuracy** in detecting bot accounts.  
-- Evaluated using confusion matrix, precision, recall, and F1-score.
+- **Logistic Regression Accuracy:** 74%  
+- Evaluated using Confusion Matrix, Precision, Recall, and ROC Curve.  
 
 ---
 
@@ -59,21 +60,23 @@ git clone https://github.com/mohammed-imad-umar/detecting-twitter-bots-ml.git
 pip install -r requirements.txt
 ```
 
-3️⃣ Open `src/Main.ipynb` or scripts to train and test the model.
+3️⃣ Run the project:
+- Open `src/Main.ipynb` in Jupyter or Colab  
+- OR double-click `src/run.bat` for GUI version  
 
 ---
 
 ### 📸 Screenshots & Visualizations
 
-#### Model Outputs:
-![Output 1](docs/output1.png)
-![Output 2](docs/output2.png)
-![Output 3](docs/output3.png)
+#### 🔹 GUI & Output Screens:
+<img src="docs/output1.png" width="800"/>
+<img src="docs/output2.png" width="800"/>
+<img src="docs/output3.png" width="800"/>
 
-#### Performance Graphs:
-![Output 4](docs/output4.png)
-![Output 5](docs/output5.png)
-![Output 6](docs/output6.png)
+#### 🔹 Performance Graphs:
+<img src="docs/output4.png" width="800"/>
+<img src="docs/output5.png" width="800"/>
+<img src="docs/output6.png" width="800"/>
 
 ---
 
