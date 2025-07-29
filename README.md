@@ -8,7 +8,7 @@
 # 🤖 Detecting Twitter Bots using Machine Learning
 
 ### 📌 Project Overview
-This project aims to build a machine learning model to detect automated (bot) accounts on Twitter.  
+This project builds a machine learning model to detect automated (bot) accounts on Twitter.  
 It uses real Twitter data and extracts key features to differentiate between human and bot accounts.
 
 ---
@@ -32,6 +32,7 @@ It uses real Twitter data and extracts key features to differentiate between hum
 ```
 detecting-twitter-bots-ml/
 │── data/                 # Dataset files
+│── docs/                 # Screenshots & visualizations
 │── notebooks/            # Jupyter Notebooks
 │── src/                  # Source code (model scripts)
 │── requirements.txt      # Dependencies
@@ -63,7 +64,16 @@ pip install -r requirements.txt
 ---
 
 ### 📸 Screenshots & Visualizations
-(Add graphs or screenshots of your model outputs here)
+
+#### Model Outputs:
+![Output 1](docs/output1.png)
+![Output 2](docs/output2.png)
+![Output 3](docs/output3.png)
+
+#### Performance Graphs:
+![Output 4](docs/output4.png)
+![Output 5](docs/output5.png)
+![Output 6](docs/output6.png)
 
 ---
 
