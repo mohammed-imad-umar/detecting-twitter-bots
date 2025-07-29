@@ -81,6 +81,8 @@ pip install -r requirements.txt
 ---
 
 ### 📫 Contact
-📧 **Email:** imadu1525@gmail.com
+[![Email](https://img.shields.io/badge/Email-imadu1525%40gmail.com-red)](mailto:imadu1525@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Imad%20Umar-blue)](https://www.linkedin.com/in/mohammed-imad-umar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mohammed__imad__umar-orange)](https://leetcode.com/mohammed_imad_umar)
 
 ⭐ *"Detecting fake accounts, one bot at a time!"*
